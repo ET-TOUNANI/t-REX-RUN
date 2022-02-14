@@ -42,5 +42,8 @@ document.addEventListener('DOMContentLoaded',()=>{
 
         },20)
     }
+    function obsticale(){
+        
+    }
 
 })
